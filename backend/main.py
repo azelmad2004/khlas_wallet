@@ -6,7 +6,7 @@ from database import engine, get_db
 
 app = FastAPI(
     title="MIZAN API",
-    description="AI Multi-Agent",
+    description="AI Multi-Agent financial",
     version="1.0.0"
 )
 
